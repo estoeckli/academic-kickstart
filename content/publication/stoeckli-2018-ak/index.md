@@ -78,4 +78,11 @@ doi = "10.1007/s12525-018-0304-7"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "TopLeft"
 
+  preview_only = true
+
 +++
+
+#### InsurTech Innovation Model
+
+The following InsurTech Innovation Model proves to be a powerful lens to understand insurance value creation in a digital world in the light of InsurTech. Considering the transformational capabilities individually, reveals sources of competitive advantage that lead to incremental innovations. In turn, disruptive potentials emerge from the combination and the alignment of these transformational capabilities linked to the three primary activities in value networks.
+![InsurTech Innovation Model](/img/Stoeckli-2018-InsurTech-Model.png)

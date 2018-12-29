@@ -68,10 +68,14 @@ doi = ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "A Taxonomy of Functional Affordances of ESS"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "BottomLeft"
+  focal_point = ""
 
 +++
+
+#### A Taxonomy of Functional Affordances of Enterprise Social Software
+
+![Taxonomy of ESS](/img/Stoeckli-2017-Taxonomy-FAofESS.png)
