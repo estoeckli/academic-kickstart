@@ -1,7 +1,7 @@
 +++
 title = "Exploring Affordances of Slack Integrations and Their Actualization Within Enterprises - Towards an Understanding of How Chatbots Create Value"
 
-selected = true
+selected = false
 draft = false
 
 # Posting date, Publication date

@@ -34,4 +34,4 @@ weight = 5
 
 # Biography
 
-Emanuel Stoeckli is Research Associate and PhD Candidate at the Institute of Information Management at University of St.Gallen, where he works with Professor Walter Brenner and Professor Falk Uebernickel. His research is conducted in collaboration with Allianz in Germany and investigates the impact of digitalization on the nature of work with a focus on the exchange of performance feedback through social software (e.g., dedicated Feeback Apps or Enterprise Messengers such as Slack and Microsoft Teams).
+Emanuel Stoeckli is Research Associate and PhD Candidate at the Institute of Information Management at University of St.Gallen, where he works with Professor Walter Brenner and Professor Falk Uebernickel. His research is conducted in collaboration with Allianz in Germany and investigates the impact of digitalization on the nature of work with a focus on the exchange of performance feedback through social software (e.g., dedicated feedback apps and enterprise messengers such as Slack and Microsoft Teams).
