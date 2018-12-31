@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Principles on Emanuel Stoeckli</title>
+    <link>/tags/design-principles/</link>
+    <description>Recent content in Design Principles on Emanuel Stoeckli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/design-principles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Socio-Technical Approach to Manage Analytics-as-a-Service - Results of an Action Design Research Project</title>
+      <link>/publication/dremel-2019-is/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dremel-2019-is/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

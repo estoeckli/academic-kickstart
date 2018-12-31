@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Emanuel Stoeckli</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Emanuel Stoeckli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACIS2017</title>
+      <link>/talk/acis2017/</link>
+      <pubDate>Sat, 29 Dec 2018 12:27:50 +0100</pubDate>
+      
+      <guid>/talk/acis2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wi2019</title>
+      <link>/talk/wi2019/</link>
+      <pubDate>Sat, 29 Dec 2018 12:25:22 +0100</pubDate>
+      
+      <guid>/talk/wi2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

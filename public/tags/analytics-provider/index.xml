@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics Provider on Emanuel Stoeckli</title>
+    <link>/tags/analytics-provider/</link>
+    <description>Recent content in Analytics Provider on Emanuel Stoeckli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/analytics-provider/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archetypes of Data Analytics Providers in the Big Data Era</title>
+      <link>/publication/dremel-2018-bm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dremel-2018-bm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

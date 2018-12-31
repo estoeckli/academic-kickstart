@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enterprise Social Software on Emanuel Stoeckli</title>
+    <link>/tags/enterprise-social-software/</link>
+    <description>Recent content in Enterprise Social Software on Emanuel Stoeckli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/enterprise-social-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Affordances of Slack Integrations and Their Actualization Within Enterprises - Towards an Understanding of How Chatbots Create Value</title>
+      <link>/publication/stoeckli-2018-lv/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2018-lv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Functional Affordances of Enterprise Social Software</title>
+      <link>/publication/stoeckli-2017-jz/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2017-jz/</guid>
+      <description> A Taxonomy of Functional Affordances of Enterprise Social Software </description>
+    </item>
+    
+  </channel>
+</rss>

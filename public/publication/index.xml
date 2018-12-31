@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Emanuel Stoeckli</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Emanuel Stoeckli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Feedback for Digital Work? Affordances and Constraints of a Feedback App at InsurCorp</title>
+      <link>/publication/stoeckli-2019-ah/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2019-ah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Socio-Technical Approach to Manage Analytics-as-a-Service - Results of an Action Design Research Project</title>
+      <link>/publication/dremel-2019-is/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dremel-2019-is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring characteristics and transformational capabilities of InsurTech innovations to understand insurance value creation in a digital world</title>
+      <link>/publication/stoeckli-2018-ak/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/stoeckli-2018-ak/</guid>
+      <description> InsurTech Innovation Model The following InsurTech Innovation Model proves to be a powerful lens to understand insurance value creation in a digital world in the light of InsurTech. Considering the transformational capabilities individually, reveals sources of competitive advantage that lead to incremental innovations. In turn, disruptive potentials emerge from the combination and the alignment of these transformational capabilities linked to the three primary activities in value networks. </description>
+    </item>
+    
+    <item>
+      <title>Archetypes of Data Analytics Providers in the Big Data Era</title>
+      <link>/publication/dremel-2018-bm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dremel-2018-bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Human-Centric Information Systems: Towards an Understanding of Challenges in Specifying Requirements within Design Thinking Projects</title>
+      <link>/publication/hehn-2018-gw/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hehn-2018-gw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Affordances of Slack Integrations and Their Actualization Within Enterprises - Towards an Understanding of How Chatbots Create Value</title>
+      <link>/publication/stoeckli-2018-lv/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2018-lv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Functional Affordances of Enterprise Social Software</title>
+      <link>/publication/stoeckli-2017-jz/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2017-jz/</guid>
+      <description> A Taxonomy of Functional Affordances of Enterprise Social Software </description>
+    </item>
+    
+    <item>
+      <title>Towards an understanding of how and why Design Science Research scholars evaluate</title>
+      <link>/publication/stoeckli-2017-kk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2017-kk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling and Managing Deployment Costs of Microservice-based Cloud Applications</title>
+      <link>/publication/leitner-2016-yg/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/leitner-2016-yg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitalization in the Insurance Industry. Themes and Decisions That Matter: Insights from a Multiple-Case Study in Germany and Switzerland</title>
+      <link>/publication/stoeckli-2016-tc/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stoeckli-2016-tc/</guid>
+      <description> Characteristics of Insurance Digitalization Efforts </description>
+    </item>
+    
+    <item>
+      <title>Towards Understanding closed-loop PLM: The Role of Product Usage Data for Product Development enabled by intelligent Properties</title>
+      <link>/publication/holler-2016-rs/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/holler-2016-rs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

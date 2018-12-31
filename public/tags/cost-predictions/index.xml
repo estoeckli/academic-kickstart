@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cost Predictions on Emanuel Stoeckli</title>
+    <link>/tags/cost-predictions/</link>
+    <description>Recent content in Cost Predictions on Emanuel Stoeckli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 06 Dec 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/cost-predictions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling and Managing Deployment Costs of Microservice-based Cloud Applications</title>
+      <link>/publication/leitner-2016-yg/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/leitner-2016-yg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
