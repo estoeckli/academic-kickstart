@@ -53,11 +53,12 @@ enableGitInfo = false
 
   # Your details.
   name = "Emanuel Stoeckli"
-  role = "Research Associate & PhD Candidate"
+  role = "Visiting Researcher/ Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Institute of Information Management at University of St.Gallen", url = "https://www.iwi.unisg.ch/en/" } ]
+  organizations = [{ name = "Stanford University", url = "https://me.stanford.edu/research/labs-and-centers/center-design-research/center-design-research" },
+   { name = "University of St.Gallen", url = "https://www.iwi.unisg.ch/en/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -168,7 +169,7 @@ enableGitInfo = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-  highlight = true
+  highlight = false
   highlight_languages = []
   # highlight_style = "github"
 

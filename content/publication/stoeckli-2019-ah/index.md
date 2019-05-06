@@ -27,7 +27,7 @@ abstract = "Little is known about how digital work shapes the exchange of perfor
 abstract_short = ""
 
 # Publication name and optional abbreviated version.
-publication = "Wirtschaftsinformatik 2019 Proceedings (forthcoming)"
+publication = "Wirtschaftsinformatik 2019 Proceedings"
 publication_short = ""
 
 # Projects (optional).
