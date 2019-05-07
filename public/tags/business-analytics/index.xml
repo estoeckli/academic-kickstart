@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/tags/business-analytics/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Socio-Technical Approach to Manage Analytics-as-a-Service - Results of an Action Design Research Project</title>
       <link>/publication/dremel-2019-is/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/publication/dremel-2019-is/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Archetypes of Data Analytics Providers in the Big Data Era</title>
       <link>/publication/dremel-2018-bm/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/dremel-2018-bm/</guid>
       <description></description>

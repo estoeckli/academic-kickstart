@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 06 Dec 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2016 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Modelling and Managing Deployment Costs of Microservice-based Cloud Applications</title>
       <link>/publication/leitner-2016-yg/</link>
-      <pubDate>Tue, 06 Dec 2016 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 -0800</pubDate>
       
       <guid>/publication/leitner-2016-yg/</guid>
       <description></description>

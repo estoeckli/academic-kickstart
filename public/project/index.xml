@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 22:29:20 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 23:35:49 +0100</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
       <pubDate>Fri, 28 Dec 2018 22:29:20 +0100</pubDate>
       
       <guid>/project/insurtech/</guid>
-      <description></description>
+      <description>Goal: Understanding the characteristics of novel IT innovations in the insurance industry (i.e., InsurTech and FinTech) and their implications on firm level and industry level.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 28 Dec 2018 23:35:12 +0100</pubDate>
       
       <guid>/project/feedback/</guid>
-      <description></description>
+      <description>Goal: Understanding the roles and value of social software in facilitating the exchange of performance feedback within enterprises.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 28 Dec 2018 23:35:49 +0100</pubDate>
       
       <guid>/project/designresearch/</guid>
-      <description></description>
+      <description>Goal: Understanding the value of different design methods (e.g., Design Thinking, Design Science Research) for practice and theory (e.g., prescriptive knowledge).</description>
     </item>
     
   </channel>

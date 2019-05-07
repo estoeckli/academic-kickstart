@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -28,6 +27,49 @@
     
     <url>
     
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/lechler-2019-qd/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/rietsche-2019-do/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/acis2017/</loc>
       <lastmod>2018-12-29T12:27:50+01:00</lastmod>
     </url>
@@ -44,371 +86,8 @@
     
     <url>
     
-      <loc>/publication/stoeckli-2019-ah/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/dremel-2019-is/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/stoeckli-2018-ak/</loc>
-      <lastmod>2018-06-05T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/dremel-2018-bm/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hehn-2018-gw/</loc>
-      <lastmod>2018-03-06T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/stoeckli-2018-lv/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/stoeckli-2017-jz/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/stoeckli-2017-kk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/leitner-2016-yg/</loc>
-      <lastmod>2016-12-06T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/stoeckli-2016-tc/</loc>
-      <lastmod>2016-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/holler-2016-rs/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-06-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/4/</loc>
-      <lastmod>2016-02-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/action-design-research/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/affordance-theory/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/analytics-provider/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/analytics-as-a-service/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/big-data-analytics/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/business-analytics/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/case-study/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/chatbot/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/closed-loop-plm/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/closed-loop-product-lifecycle-management/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/cloud-computing/</loc>
-      <lastmod>2016-12-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/cost-predictions/</loc>
-      <lastmod>2016-12-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/design-principles/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/design-science-research/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/design-science-research-methodologies/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/design-thinking/</loc>
-      <lastmod>2018-03-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/digital-transformation/</loc>
-      <lastmod>2016-02-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/digital-work/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/digitalization/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-12-28T22:29:20+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/enterprise-messenger/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/enterprise-social-media/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/enterprise-social-network/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/enterprise-social-software/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/evaluation/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/project/</loc>
+      <lastmod>2018-12-28T23:35:49+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -425,105 +104,6 @@
     
     <url>
     
-      <loc>/tags/fintech/</loc>
-      <lastmod>2018-06-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/governance/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/human-centered-design/</loc>
-      <lastmod>2018-03-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/human-centric-is/</loc>
-      <lastmod>2018-03-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/it-innovations/</loc>
-      <lastmod>2018-06-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/instant-messaging/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/insurtech/</loc>
-      <lastmod>2018-06-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/insurance-industry/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/integrated-development-environment/</loc>
-      <lastmod>2016-12-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/intelligent-product/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/microservices/</loc>
-      <lastmod>2016-12-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/performance-feedback/</loc>
       <lastmod>2018-12-28T23:35:12+01:00</lastmod>
       <priority>0</priority>
@@ -533,8 +113,8 @@
     
     <url>
     
-      <loc>/tags/product-development/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <loc>/tags/</loc>
+      <lastmod>2018-12-28T23:35:12+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -542,8 +122,8 @@
     
     <url>
     
-      <loc>/tags/product-usage-data/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <loc>/tags/affordance-theory/</loc>
+      <lastmod>2018-12-28T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -551,8 +131,16 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2018-12-28T22:29:20+01:00</lastmod>
+      <loc>/publication/stoeckli-2019-ah/</loc>
+      <lastmod>2018-12-28T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/digital-work/</loc>
+      <lastmod>2018-12-28T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -560,8 +148,184 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2018-12-28T00:00:00+01:00</lastmod>
+      <loc>/tags/digitalization/</loc>
+      <lastmod>2018-12-28T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/insurance-industry/</loc>
+      <lastmod>2018-12-28T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/dremel-2019-is/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/action-design-research/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/analytics-as-a-service/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/big-data-analytics/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/business-analytics/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/design-principles/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/governance/</loc>
+      <lastmod>2018-12-27T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-06-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/stoeckli-2018-ak/</loc>
+      <lastmod>2018-06-05T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/fintech/</loc>
+      <lastmod>2018-06-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/it-innovations/</loc>
+      <lastmod>2018-06-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/insurtech/</loc>
+      <lastmod>2018-06-05T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/analytics-provider/</loc>
+      <lastmod>2018-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/dremel-2018-bm/</loc>
+      <lastmod>2018-06-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/taxonomy/</loc>
+      <lastmod>2018-06-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/design-thinking/</loc>
+      <lastmod>2018-03-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hehn-2018-gw/</loc>
+      <lastmod>2018-03-06T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/human-centered-design/</loc>
+      <lastmod>2018-03-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/human-centric-is/</loc>
+      <lastmod>2018-03-06T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -570,7 +334,7 @@
     <url>
     
       <loc>/tags/requirements/</loc>
-      <lastmod>2018-03-06T00:00:00+01:00</lastmod>
+      <lastmod>2018-03-06T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -578,8 +342,43 @@
     
     <url>
     
-      <loc>/tags/serverless/</loc>
-      <lastmod>2016-12-06T00:00:00+01:00</lastmod>
+      <loc>/tags/chatbot/</loc>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/enterprise-messenger/</loc>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/enterprise-social-software/</loc>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/stoeckli-2018-lv/</loc>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/instant-messaging/</loc>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -588,7 +387,7 @@
     <url>
     
       <loc>/tags/slack/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -597,7 +396,7 @@
     <url>
     
       <loc>/tags/social-information-systems/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-03T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -605,8 +404,16 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2018-12-27T00:00:00+01:00</lastmod>
+      <loc>/publication/stoeckli-2017-jz/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/design-science-research/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -614,8 +421,216 @@
     
     <url>
     
-      <loc>/tags/taxonomy/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <loc>/tags/design-science-research-methodologies/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/enterprise-social-media/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/enterprise-social-network/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/evaluation/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/stoeckli-2017-kk/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cloud-computing/</loc>
+      <lastmod>2016-12-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cost-predictions/</loc>
+      <lastmod>2016-12-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/integrated-development-environment/</loc>
+      <lastmod>2016-12-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/microservices/</loc>
+      <lastmod>2016-12-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/leitner-2016-yg/</loc>
+      <lastmod>2016-12-06T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/serverless/</loc>
+      <lastmod>2016-12-06T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/4/</loc>
+      <lastmod>2016-02-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/digital-transformation/</loc>
+      <lastmod>2016-02-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/stoeckli-2016-tc/</loc>
+      <lastmod>2016-02-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/case-study/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/closed-loop-plm/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/closed-loop-product-lifecycle-management/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/intelligent-product/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/product-development/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/product-usage-data/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/holler-2016-rs/</loc>
+      <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     

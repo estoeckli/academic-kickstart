@@ -8,7 +8,16 @@ Adding publications: see https://sourcethemes.com/academic/docs/managing-content
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Dokku Deployment
+## Dokku DevOps
+
+Build
+
+```
+$ hugo server    # serve
+$ hugo           # build
+```
+
+Deploy
 
 ```
 $ git push
